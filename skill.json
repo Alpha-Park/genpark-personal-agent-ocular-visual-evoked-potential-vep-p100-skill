@@ -1,0 +1,17 @@
+{
+  "name": "genpark-personal-agent-ocular-visual-evoked-potential-vep-p100-skill",
+  "version": "1.0.0",
+  "description": "Calculates pattern-reversal visual evoked potential (PR-VEP) P100 latency, N75-P100 amplitude, and interocular asymmetry to detect optic demyelination and axonopathy.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "ocular",
+    "neuro-ophthalmology",
+    "electrophysiology",
+    "visual-evoked-potential"
+  ],
+  "dependencies": []
+}
